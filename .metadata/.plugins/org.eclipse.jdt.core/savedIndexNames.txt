@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+G:\Meu Drive\02-Cursos\Udemy\Java COMPLETO Programação Orientada a Objetos + Projetos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3510846143.index
+1098844294.index
