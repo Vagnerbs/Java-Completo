@@ -2,7 +2,7 @@ package aulasBasicas;
 
 import java.util.Scanner;
 
-public class Aula_26_Entrada_De_Dados {
+public class Aula_026_Entrada_De_Dados {
 
 	public static void main(String[] args) {
 		
