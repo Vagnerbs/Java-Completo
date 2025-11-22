@@ -5,13 +5,14 @@ public class Aula_025_Casting {
 	public static void main(String[] args) {
 		
 		//1° EXEMPLO DE CASTING.
-		int a, b;
+		int a;
+		int b;
 		double resultado;
 		
 		a = 5;
 		b = 2;
 		
-		resultado = 5 / 2;
+		resultado = a / b;
 		//Resultado sem o Casting: Como a divisão é entre inteiros o resto da divisão .5 é ignorado.
 		System.out.println(resultado);
 		
