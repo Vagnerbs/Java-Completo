@@ -15,7 +15,6 @@ public class Aula_026_Entrada_De_Dados {
 				System.out.println("Voce digitou: " + x);
 				
 				sc.close();
-
 	}
 
 }
