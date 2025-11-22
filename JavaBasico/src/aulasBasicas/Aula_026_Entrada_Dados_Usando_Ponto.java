@@ -3,7 +3,7 @@ package aulasBasicas;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Aula_26_Entrada_Dados_Usando_Ponto {
+public class Aula_026_Entrada_Dados_Usando_Ponto {
 
 	public static void main(String[] args) {
 
@@ -19,6 +19,7 @@ public class Aula_26_Entrada_Dados_Usando_Ponto {
 		System.out.println("Voce digitou: " + x);
 
 		sc.close();
+		
 	}
 
 }
