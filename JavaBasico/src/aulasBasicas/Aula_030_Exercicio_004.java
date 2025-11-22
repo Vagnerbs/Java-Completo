@@ -3,7 +3,7 @@ package aulasBasicas;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Aula_30_Exercicio_004 {
+public class Aula_030_Exercicio_004 {
 
 	public static void main(String[] args) {
 		
@@ -22,7 +22,6 @@ public class Aula_30_Exercicio_004 {
 		System.out.println("NUMBER = " + numero);
 		System.out.printf("SALARY = U$ %.2f", (numeroHoras * valorHoras));
 		sc.close();
-		
 	}
 
 }
