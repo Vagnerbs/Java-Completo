@@ -1,6 +1,6 @@
 package aulasBasicas;
 
-public class Aula_28_Funcoes_Matematicas_Em_Java {
+public class Aula_028_Funcoes_Matematicas_Em_Java {
 
 	public static void main(String[] args) {
 		double x = 3.0;
