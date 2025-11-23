@@ -28,6 +28,7 @@ public class Aula_030_Exercicio_005 {
 		System.out.printf("VALOR A PAGAR: R$ %.2f ", (soma1 + soma2));
 		
 		sc.close();
+		
 	}
 
 }
