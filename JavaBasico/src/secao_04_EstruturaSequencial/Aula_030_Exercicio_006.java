@@ -26,8 +26,8 @@ public class Aula_030_Exercicio_006 {
 		System.out.printf("TRAPEZIO: %.3f%n", (( a + b ) * c ) / 2) ;
 		System.out.printf("QUADRADO: %.3f%n", (Math.pow(b, 2))) ;
 		System.out.printf("RETANGULO: %.3f%n", (a * b)) ;
+		
 		sc.close();
-		 
 	}
 
 }
