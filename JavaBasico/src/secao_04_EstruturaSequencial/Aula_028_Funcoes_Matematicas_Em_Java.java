@@ -27,8 +27,7 @@ public class Aula_028_Funcoes_Matematicas_Em_Java {
 		A = Math.abs(y);
 		B = Math.abs(z);
 		System.out.println("Valor absoluto de " + y + " = " + A); // Valor absoluto de y, retira todo negativo do valor
-		System.out.println("Valor absoluto de " + z + " = " + B); // Valor absoluto de z, retira todo negativo do valor
-		
+		System.out.println("Valor absoluto de " + z + " = " + B); // Valor absoluto de z, retira todo negativo do valor	
 	}
 
 }
