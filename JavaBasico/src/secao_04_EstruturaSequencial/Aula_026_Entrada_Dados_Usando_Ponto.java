@@ -19,7 +19,6 @@ public class Aula_026_Entrada_Dados_Usando_Ponto {
 		System.out.println("Voce digitou: " + x);
 
 		sc.close();
-		
 	}
 
 }
