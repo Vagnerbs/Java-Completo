@@ -28,6 +28,7 @@ public class Aula_025_Casting {
 		d = (int) c;
 		
 		System.out.println(d);
+		
 	}
 
 }
