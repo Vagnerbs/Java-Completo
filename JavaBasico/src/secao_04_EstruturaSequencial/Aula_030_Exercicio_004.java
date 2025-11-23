@@ -22,6 +22,7 @@ public class Aula_030_Exercicio_004 {
 		System.out.println("NUMBER = " + numero);
 		System.out.printf("SALARY = U$ %.2f", (numeroHoras * valorHoras));
 		sc.close();
+		
 	}
 
 }
