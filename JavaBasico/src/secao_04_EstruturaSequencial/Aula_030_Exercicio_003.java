@@ -18,6 +18,7 @@ public class Aula_030_Exercicio_003 {
 
 		System.out.println("Diferenca = " + ((a * b) - c * d));
 		sc.close();
+		
 	}
 
 }
