@@ -1,4 +1,4 @@
-package aulasBasicas;
+package secao_04_EstruturaSequencial;
 
 public class Aula_025_Casting {
 

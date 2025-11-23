@@ -1,4 +1,4 @@
-package aulasBasicas;
+package secao_04_EstruturaSequencial;
 
 public class Aula_028_Funcoes_Matematicas_Em_Java {
 
