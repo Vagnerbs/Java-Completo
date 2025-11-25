@@ -3,7 +3,7 @@ package secao_05_EstruturaCondicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Aula_37_Exercicio_007 {
+public class Aula_037_Exercicio_007 {
 
 	public static void main(String[] args) {
 		/*
@@ -35,5 +35,4 @@ public class Aula_37_Exercicio_007 {
 		}
 		sc.close();
 	}
-	
 }
