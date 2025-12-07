@@ -44,6 +44,7 @@ public class Aula_044_SwitchCase {
 			break;
 		default:
 			dia = "Valor invalido";
+			break;
 		}
 		
 		System.out.println("Dia da Semana: " + dia);
