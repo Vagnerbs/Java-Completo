@@ -3,7 +3,7 @@ package secao_06_EstruturasRepetitivas;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Aula_61_EstruturaRepetitivaDoWhile {
+public class Aula_061_EstruturaRepetitivaDoWhile {
 
 	public static void main(String[] args) {
 	
@@ -19,8 +19,9 @@ public class Aula_61_EstruturaRepetitivaDoWhile {
 			System.out.println("Deseja repetir (s/n)? ");
 			resp = sc.next().charAt(0);
 		}while(resp != 'n');
-		
+	
 		sc.close();
+		
 	}
 
 }
